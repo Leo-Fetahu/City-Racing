@@ -15,10 +15,10 @@ public class WheelController : MonoBehaviour {
     [SerializeField] Transform backLeftTransform;
 
     public float acceleration = 500f;
-    public float breakingForce = 300f;
+    public float breakingForce = 250f;
     public float maxTurnAngle = 15f;
-    public float nitrousBoost = 1000f; // Amount of nitrous boost
-    public float nitrousDuration = 5f; // Duration of nitrous boost
+    public float nitrousBoost = 2000f; // Amount of nitrous boost
+    public float nitrousDuration = 7f; // Duration of nitrous boost
 
     private bool nitrousActivated = false; // Flag to track if nitrous is activated
     private float nitrousTimer = 0f; // Timer to track duration of nitrous boost
