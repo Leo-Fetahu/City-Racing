@@ -27,7 +27,20 @@ public class WheelController : MonoBehaviour {
     private float currentBreakForce = 0f;
     private float currentTurnAngle = 0f;
 
+    private float currentSpeed = 0f; //Current Speed of the car
+    public float topSpeed = 100f; //Maximum speed of car
+    
+
     private void FixedUpdate() {
+
+        // Calculate the current speed of the car based on the average speed of all four wheels
+        currentSpeed = (frontLeft.rpm + frontRight.rpm + backLeft.rpm + backRight.rpm) / 4f * 0.10472f * frontLeft.radius; // Convert rpm to m/s
+
+
+        if (currentSpeed > topSpeed)
+            GetComponent<Rigidbody>().velocity = GetComponent<Rigidbody>().velocity.normalized * (topSpeed / 2.237f);
+
+        
 
         // Get forward/reverse acceleration from the vertical axis (W and S keys)
         currentAcceleration = acceleration * Input.GetAxis("Vertical");
