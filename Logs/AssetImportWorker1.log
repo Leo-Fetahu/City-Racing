@@ -508,3 +508,73 @@ Received Import Request.
   path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadParkingDouble.fbx
   artifactKey: Guid(fac8427fdae903f4bbf85cd20e5d520b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadParkingDouble.fbx using Guid(fac8427fdae903f4bbf85cd20e5d520b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5aae0f9e6f4d7e6d8ee23ef971a999c') in 0.031957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 699.181840 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightA.obj
+  artifactKey: Guid(5a9ed692bfc37314abb0c85fde6474d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightA.obj using Guid(5a9ed692bfc37314abb0c85fde6474d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcf2950ee2a2a60449a01fac088dfba') in 0.046905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.obj
+  artifactKey: Guid(afcc81086fc44f7488722f52108e4728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.obj using Guid(afcc81086fc44f7488722f52108e4728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c0f7bfb441991092e81a24404c2278') in 0.044484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.obj
+  artifactKey: Guid(effe5c1eb53a43241bdbc98a9727d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.obj using Guid(effe5c1eb53a43241bdbc98a9727d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3add838f932def9dd9f434ed9e322f46') in 0.041388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.fbx
+  artifactKey: Guid(049c2190af0e2ed42acbcce3ae28d6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.fbx using Guid(049c2190af0e2ed42acbcce3ae28d6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76958768adbb3573c36fca63b95cdfe4') in 0.041011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurn.fbx
+  artifactKey: Guid(767e802a3a5566347b18a9811a6e3480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurn.fbx using Guid(767e802a3a5566347b18a9811a6e3480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fba51701125160a5de97db120d2a712') in 0.036432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.obj
+  artifactKey: Guid(e3b76f151bc112a46a5f5540d230a428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.obj using Guid(e3b76f151bc112a46a5f5540d230a428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6625498ee2ad5c5825264553ae189c3c') in 0.033352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadWidening.fbx
+  artifactKey: Guid(4164447fc64e56046a1211a6c138aa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadWidening.fbx using Guid(4164447fc64e56046a1211a6c138aa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f69618187589beb3cb792b920143377') in 0.042478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.fbx
+  artifactKey: Guid(1e5af9cc0a434aa45926a89116ec2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.fbx using Guid(1e5af9cc0a434aa45926a89116ec2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60695bf2d0712d7a87ea7dc03868bd07') in 0.043283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.fbx
+  artifactKey: Guid(cb35196f907066a4e97015ae6ac098e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.fbx using Guid(cb35196f907066a4e97015ae6ac098e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e2848b240ef5db1c04188f4ba4c048') in 0.048028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10246.590188 seconds.
+  path: Assets/uploads_files_3275870_FBX/DISP.png
+  artifactKey: Guid(804585a97f4ee214e83b02f0fdea4981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_3275870_FBX/DISP.png using Guid(804585a97f4ee214e83b02f0fdea4981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2e556fddd6b6939e3fcaa0f4ef6399') in 0.154523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/uploads_files_3275870_FBX/SPEC.png
+  artifactKey: Guid(f108e04299c22934b966fc51efdc5ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_3275870_FBX/SPEC.png using Guid(f108e04299c22934b966fc51efdc5ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '065f0bd7595a1c90622bc18d46bc891d') in 0.024158 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
