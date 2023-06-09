@@ -1,0 +1,14 @@
+# Blender MTL File: 'Roads.blend'
+# Material Count: 1
+
+newmtl 7_Pavement-D-C
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.560328 0.423581 0.687382
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd atlas.jpg
+map_d atlas.jpg

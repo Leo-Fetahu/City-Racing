@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl 7_Pavement-C-D
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.547366 0.501573 0.465535
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd atlas.jpg
+map_d atlas.jpg
