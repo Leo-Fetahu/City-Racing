@@ -1,0 +1,580 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.16f1 (7321c9670bc2) revision 7545289'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'en' Physical Memory: 16287 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/fetah/Documents/GitHub/City-Racing
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+64205
+Successfully changed project path to: C:/Users/fetah/Documents/GitHub/City-Racing
+C:/Users/fetah/Documents/GitHub/City-Racing
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 105.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.16f1 (7321c9670bc2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/fetah/Documents/GitHub/City-Racing/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+    Driver:   31.0.15.3118
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006035 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 95.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Domain Reload Profiling:
+	ReloadAssembly (786ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (566ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (131ms)
+				TypeCache.Initialize (130ms)
+					TypeCache.ScanAssembly (128ms)
+				ResolveRequiredComponents (1ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (338ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (96ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (160ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006049 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fetah\Documents\GitHub\City-Racing\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fetah\Documents\GitHub\City-Racing\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1159ms)
+		BeginReloadAssembly (152ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (886ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (281ms)
+				TypeCache.Initialize (276ms)
+					TypeCache.ScanAssembly (272ms)
+				ResolveRequiredComponents (5ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (396ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (9ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (264ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3157 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (469.4 KB). Loaded Objects now: 3649.
+Memory consumption went from 0.50 GB to 0.50 GB.
+Total: 3.899300 ms (FindLiveObjects: 0.383000 ms CreateObjectMapping: 0.195100 ms MarkObjects: 2.975700 ms  DeleteObjects: 0.343900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1632.232983 seconds.
+  path: Assets/uploads_files_2616256_skyscraper_02.FBX
+  artifactKey: Guid(16d5025ba8cd1b74fbe6908e13f93148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2616256_skyscraper_02.FBX using Guid(16d5025ba8cd1b74fbe6908e13f93148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b53ceb20e81ded9b1f5e5bcfd6ae498') in 0.274238 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003721 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fetah\Documents\GitHub\City-Racing\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fetah\Documents\GitHub\City-Racing\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1035ms)
+		BeginReloadAssembly (168ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (62ms)
+		EndReloadAssembly (749ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (271ms)
+				TypeCache.Initialize (267ms)
+					TypeCache.ScanAssembly (261ms)
+				ResolveRequiredComponents (4ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (307ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (54ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3124 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (437.2 KB). Loaded Objects now: 3696.
+Memory consumption went from 0.50 GB to 0.50 GB.
+Total: 3.473900 ms (FindLiveObjects: 0.335600 ms CreateObjectMapping: 0.207900 ms MarkObjects: 2.653900 ms  DeleteObjects: 0.275200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6454.270129 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAA.fbx
+  artifactKey: Guid(5ffed5f49a8cf4149824b3d92c653164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAA.fbx using Guid(5ffed5f49a8cf4149824b3d92c653164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d77929f61f1cc2dcb62a041f4c99ea1') in 0.203275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCD.fbx
+  artifactKey: Guid(28808e9c64571da4295064175c03db78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCD.fbx using Guid(28808e9c64571da4295064175c03db78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb08c32ea1e3ef7041be01df5bc52694') in 0.046295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDB.fbx
+  artifactKey: Guid(8e0410a3523464b47a32acb97ff02a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDB.fbx using Guid(8e0410a3523464b47a32acb97ff02a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11296fd2ab03001d44cbc90457d3cae') in 0.043074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAD.obj
+  artifactKey: Guid(04873692f57df2b458ca5216088c513e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAD.obj using Guid(04873692f57df2b458ca5216088c513e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a43e0b61c59e8a50da67e1b05ea4f1a') in 0.037631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDE.obj
+  artifactKey: Guid(de6dc226424c55d43892c9811e191e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDE.obj using Guid(de6dc226424c55d43892c9811e191e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dae6f91816bfa8e1cfff4d65ba20c0f') in 0.036702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDA.fbx
+  artifactKey: Guid(fcfa2feb45b2e594faca28378b0d5264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDA.fbx using Guid(fcfa2feb45b2e594faca28378b0d5264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270f99207706436271f047ba3473a28c') in 0.048481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBA.fbx
+  artifactKey: Guid(abb63810ec0dd754a81c998d0fce2694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBA.fbx using Guid(abb63810ec0dd754a81c998d0fce2694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98b43a8fb50a5f1712c3f0bb0b0ff33') in 0.042554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBB.fbx
+  artifactKey: Guid(babfe74fa687b9145a89303adc63f076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBB.fbx using Guid(babfe74fa687b9145a89303adc63f076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7e05771a93d168dd344caea50b8ac3') in 0.033275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDD.obj
+  artifactKey: Guid(6df993ccd5bba6747a1dd9d43fd31775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDD.obj using Guid(6df993ccd5bba6747a1dd9d43fd31775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483790450a4aa2d26d3626a8928c0962') in 0.031533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAB.obj
+  artifactKey: Guid(4c31eb2b9f40eb141b8d95b9b215a60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAB.obj using Guid(4c31eb2b9f40eb141b8d95b9b215a60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5e80d2258c11ccf0ccc0dd5a5e86f4') in 0.029437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCA.obj
+  artifactKey: Guid(4a459635b5278b34fbf493df6df39a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCA.obj using Guid(4a459635b5278b34fbf493df6df39a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f35f5aefceb0afb9dba983e8314cfe') in 0.031417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCB.fbx
+  artifactKey: Guid(c35ef7d1debc8ab4b85a00b5b9f63885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCB.fbx using Guid(c35ef7d1debc8ab4b85a00b5b9f63885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ededbfb00c68afcc1b06254b6a2902') in 0.031407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCC.fbx
+  artifactKey: Guid(cbc155e5df87185478a9b1acdb1149f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCC.fbx using Guid(cbc155e5df87185478a9b1acdb1149f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855473356c434c679e86b61cdd351db7') in 0.034122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCC.obj
+  artifactKey: Guid(774d4e86ba7dc6043957df3646a859a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementCC.obj using Guid(774d4e86ba7dc6043957df3646a859a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e709a2a4ac370bb3918412cbd4667d') in 0.033204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBB.obj
+  artifactKey: Guid(b08a26af3b08555469d05cfe19bbc6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBB.obj using Guid(b08a26af3b08555469d05cfe19bbc6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aed03ce9f7048461104a502ebcd0e6c') in 0.031776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadBusStop.obj
+  artifactKey: Guid(98bdedc72cd66f64fbcbb7c84c4ca071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadBusStop.obj using Guid(98bdedc72cd66f64fbcbb7c84c4ca071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269a61a8d7914f4a2f3f623593a93ad2') in 0.035683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAD.fbx
+  artifactKey: Guid(d91cce54a973fc543aa224851b4a053e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAD.fbx using Guid(d91cce54a973fc543aa224851b4a053e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c252ef414beb834139fa21cf3cecd5') in 0.034311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAE.fbx
+  artifactKey: Guid(c80a141b7b79317479149ff333d5e411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAE.fbx using Guid(c80a141b7b79317479149ff333d5e411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b61ba33102c666e20205d98d0c3b206') in 0.033238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBD.obj
+  artifactKey: Guid(ceb4e9d99936e3e47aa32de67198822e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementBD.obj using Guid(ceb4e9d99936e3e47aa32de67198822e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d31451771f2067da24f1f447a88d2b') in 0.033254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAC.fbx
+  artifactKey: Guid(b8765d0ef6cac8e42a025d5522cfcabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementAC.fbx using Guid(b8765d0ef6cac8e42a025d5522cfcabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01325dbbc89d774292acfa1e28de557d') in 0.033434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDC.obj
+  artifactKey: Guid(473a48b2f8831724b9083f2920f9bec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/PavementDC.obj using Guid(473a48b2f8831724b9083f2920f9bec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4239164032183fb644e2ae258dd77ded') in 0.028590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.919047 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossAB.fbx
+  artifactKey: Guid(c95b4f5d33107c34492a0fdc7b4cfa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossAB.fbx using Guid(c95b4f5d33107c34492a0fdc7b4cfa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bd9e29b5db302f8ee90ba805233603') in 0.034859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrosswalk.obj
+  artifactKey: Guid(13bd39a5452617046b4ac86896acba10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrosswalk.obj using Guid(13bd39a5452617046b4ac86896acba10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96864a2f38e1fede694334ecb3004015') in 0.029393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossCA.fbx
+  artifactKey: Guid(e70e153a7a3bda84da67a9949bd899fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossCA.fbx using Guid(e70e153a7a3bda84da67a9949bd899fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cca550c5b531871ee8dba81f3e2b9d7') in 0.034888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossAB.obj
+  artifactKey: Guid(f1c57689d6da51b40a7986d6614bf747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossAB.obj using Guid(f1c57689d6da51b40a7986d6614bf747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e563386e490738c214d71a5cefb0ba10') in 0.032278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossCA.obj
+  artifactKey: Guid(2cd5dd10c6a96f0479968082d200786a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadCrossCA.obj using Guid(2cd5dd10c6a96f0479968082d200786a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c489c9992cb3e731b1453aaf1fa13bd3') in 0.031180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.528822 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadDoubleCrossBB.fbx
+  artifactKey: Guid(9a40ac197e3d2af4c974c9054642bc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadDoubleCrossBB.fbx using Guid(9a40ac197e3d2af4c974c9054642bc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2660358b316ffb92157d6477db9dd14') in 0.048642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadEndB.fbx
+  artifactKey: Guid(8bc962163b370114b8a8bc5e54b7ad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadEndB.fbx using Guid(8bc962163b370114b8a8bc5e54b7ad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6e802bc3d0a629eaac0d8bccbe9588') in 0.035716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadEndB.obj
+  artifactKey: Guid(2ff4d7076b8c0a340838146866c80bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadEndB.obj using Guid(2ff4d7076b8c0a340838146866c80bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac72a27905077fde845887f93f7c0f5a') in 0.032311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadEndA.fbx
+  artifactKey: Guid(5fcb79147027e2b4eb09690089cba25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadEndA.fbx using Guid(5fcb79147027e2b4eb09690089cba25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d51660b6eeec7b9b4c5cf66fb9dbd6') in 0.032607 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003428 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fetah\Documents\GitHub\City-Racing\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fetah\Documents\GitHub\City-Racing\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Domain Reload Profiling:
+	ReloadAssembly (991ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (772ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (268ms)
+				TypeCache.Initialize (264ms)
+					TypeCache.ScanAssembly (258ms)
+				ResolveRequiredComponents (4ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (327ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3124 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (437.3 KB). Loaded Objects now: 3700.
+Memory consumption went from 0.50 GB to 0.50 GB.
+Total: 3.608300 ms (FindLiveObjects: 0.278900 ms CreateObjectMapping: 0.112100 ms MarkObjects: 2.874700 ms  DeleteObjects: 0.341800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 974.579659 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadIntersectionB.obj
+  artifactKey: Guid(dac29c89e81be2f4b8305007f8927c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadIntersectionB.obj using Guid(dac29c89e81be2f4b8305007f8927c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a982a2b788306481cd4412daf7cb98') in 0.122636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadIntersectionD.fbx
+  artifactKey: Guid(132c518001f545d4381d6aaef72840ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadIntersectionD.fbx using Guid(132c518001f545d4381d6aaef72840ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bad7079161deaca4589b93068aef26b') in 0.039251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadIntersectionC.fbx
+  artifactKey: Guid(a7e214f5ef8780644bab20feccbbd838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadIntersectionC.fbx using Guid(a7e214f5ef8780644bab20feccbbd838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c014521ce3e1c0d41f5ebc6b4a926fb') in 0.035077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraight.obj
+  artifactKey: Guid(bb46254b24160ee43aab0e4ade7611dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraight.obj using Guid(bb46254b24160ee43aab0e4ade7611dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59acaccd815af8e963f31facad19842f') in 0.028963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraight.fbx
+  artifactKey: Guid(c1c5a8a730736814cb2144070119138d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraight.fbx using Guid(c1c5a8a730736814cb2144070119138d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9249cae2e446af26d2149160f57ad51d') in 0.033862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadParkingDouble.fbx
+  artifactKey: Guid(fac8427fdae903f4bbf85cd20e5d520b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadParkingDouble.fbx using Guid(fac8427fdae903f4bbf85cd20e5d520b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5aae0f9e6f4d7e6d8ee23ef971a999c') in 0.031957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 699.181840 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightA.obj
+  artifactKey: Guid(5a9ed692bfc37314abb0c85fde6474d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightA.obj using Guid(5a9ed692bfc37314abb0c85fde6474d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcf2950ee2a2a60449a01fac088dfba') in 0.046905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.obj
+  artifactKey: Guid(afcc81086fc44f7488722f52108e4728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.obj using Guid(afcc81086fc44f7488722f52108e4728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c0f7bfb441991092e81a24404c2278') in 0.044484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.obj
+  artifactKey: Guid(effe5c1eb53a43241bdbc98a9727d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.obj using Guid(effe5c1eb53a43241bdbc98a9727d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3add838f932def9dd9f434ed9e322f46') in 0.041388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.fbx
+  artifactKey: Guid(049c2190af0e2ed42acbcce3ae28d6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.fbx using Guid(049c2190af0e2ed42acbcce3ae28d6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76958768adbb3573c36fca63b95cdfe4') in 0.041011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurn.fbx
+  artifactKey: Guid(767e802a3a5566347b18a9811a6e3480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurn.fbx using Guid(767e802a3a5566347b18a9811a6e3480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fba51701125160a5de97db120d2a712') in 0.036432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.obj
+  artifactKey: Guid(e3b76f151bc112a46a5f5540d230a428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDoubleA.obj using Guid(e3b76f151bc112a46a5f5540d230a428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6625498ee2ad5c5825264553ae189c3c') in 0.033352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadWidening.fbx
+  artifactKey: Guid(4164447fc64e56046a1211a6c138aa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadWidening.fbx using Guid(4164447fc64e56046a1211a6c138aa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f69618187589beb3cb792b920143377') in 0.042478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.fbx
+  artifactKey: Guid(1e5af9cc0a434aa45926a89116ec2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadTurnDouble.fbx using Guid(1e5af9cc0a434aa45926a89116ec2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60695bf2d0712d7a87ea7dc03868bd07') in 0.043283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.fbx
+  artifactKey: Guid(cb35196f907066a4e97015ae6ac098e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roads_pack_1__xps_mesh__fbx__obj__download_by_honorsoft_detip2u/Roads1/RoadStraightDouble.fbx using Guid(cb35196f907066a4e97015ae6ac098e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e2848b240ef5db1c04188f4ba4c048') in 0.048028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10246.590188 seconds.
+  path: Assets/uploads_files_3275870_FBX/DISP.png
+  artifactKey: Guid(804585a97f4ee214e83b02f0fdea4981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_3275870_FBX/DISP.png using Guid(804585a97f4ee214e83b02f0fdea4981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2e556fddd6b6939e3fcaa0f4ef6399') in 0.154523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/uploads_files_3275870_FBX/SPEC.png
+  artifactKey: Guid(f108e04299c22934b966fc51efdc5ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_3275870_FBX/SPEC.png using Guid(f108e04299c22934b966fc51efdc5ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '065f0bd7595a1c90622bc18d46bc891d') in 0.024158 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
