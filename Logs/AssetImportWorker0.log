@@ -214,3 +214,163 @@ Received Import Request.
   path: Assets/Backyard grass.mat
   artifactKey: Guid(ae383249560196e4898316d5c441b876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Backyard grass.mat using Guid(ae383249560196e4898316d5c441b876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3203fea80397eaaa902490cd351d9dbd') in 0.026110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 227.361076 seconds.
+  path: Assets/uploads_files_3722104_house+fbx.FBX
+  artifactKey: Guid(8dd4b01fbcc67f047b3dd8e4c01f184b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_3722104_house+fbx.FBX using Guid(8dd4b01fbcc67f047b3dd8e4c01f184b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd728b52930b0c51b60acd4865380875f') in 1.333819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1113.585223 seconds.
+  path: Assets/Rock_9/Rock_9.fbx
+  artifactKey: Guid(feee4f7b43687a04bb10339e10eb3257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rock_9/Rock_9.fbx using Guid(feee4f7b43687a04bb10339e10eb3257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8863c92ba2228cf6a47dbd9c4fba50e2') in 0.261853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 783.326445 seconds.
+  path: Assets/uploads_files_4310848_Yacht.fbx
+  artifactKey: Guid(df4ab387831003d428cec958489b74fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_4310848_Yacht.fbx using Guid(df4ab387831003d428cec958489b74fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0204138fdef661996e6c440ef3853442') in 0.024869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 437.411702 seconds.
+  path: Assets/New SceneTemplate.scenetemplate
+  artifactKey: Guid(421f526c417a3bc4db11f10b6187d0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New SceneTemplate.scenetemplate using Guid(421f526c417a3bc4db11f10b6187d0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664bf4e6e784735c0d77793a9a98cde6') in 0.042032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 323.162466 seconds.
+  path: Assets/uploads_files_2220705_fountain.FBX
+  artifactKey: Guid(87a838fa7a9bba14bbe675e13b3b469f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2220705_fountain.FBX using Guid(87a838fa7a9bba14bbe675e13b3b469f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302b0a8361174e1b4f6b8ae3d6314c4b') in 0.166167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1001.701637 seconds.
+  path: Assets/playground/source/child.fbx
+  artifactKey: Guid(0cab7bd16753b364dade4b62ec389e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/source/child.fbx using Guid(0cab7bd16753b364dade4b62ec389e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e75428864275165d3cc7be46908c72') in 0.147694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.519923 seconds.
+  path: Assets/playground/textures/lamp_diff.png
+  artifactKey: Guid(225698adf68362b4ba2c8a574e26f946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/lamp_diff.png using Guid(225698adf68362b4ba2c8a574e26f946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6349b1ee3a3473dabcdea0ce5bbeb355') in 0.070869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/playground/textures/MuddySand_ao.png
+  artifactKey: Guid(630a76ae97bcaae4693d8a60e5fa66cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/MuddySand_ao.png using Guid(630a76ae97bcaae4693d8a60e5fa66cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96fb19e86a7788d4dbd67a85b67fa07') in 0.018199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/playground/textures/swing_spec.png
+  artifactKey: Guid(4814658b766ce094ba28d8ffa60b553f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing_spec.png using Guid(4814658b766ce094ba28d8ffa60b553f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad78ee0fdf9a19ddbdf366d82ae24172') in 0.022318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/playground/textures/swing1_rgh.png
+  artifactKey: Guid(e361c38b1d7a9b5448bce66ac2754eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing1_rgh.png using Guid(e361c38b1d7a9b5448bce66ac2754eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320a0240bd4333d71dbc1889f4f44888') in 0.017779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/playground/textures/lamp_spec.png
+  artifactKey: Guid(9127f4c90cb1f104ca4c9d43852fc71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/lamp_spec.png using Guid(9127f4c90cb1f104ca4c9d43852fc71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8afc38892d3b4ffa0c1865a7ea491b') in 0.015328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/playground/textures/swing_diff.png
+  artifactKey: Guid(e75772b555e7bb54e98fa3408265616e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing_diff.png using Guid(e75772b555e7bb54e98fa3408265616e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cab174201b7a2e367a306880ad8fa5b') in 0.016025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/playground/textures/swing1_diff.png
+  artifactKey: Guid(89a3be6a2e4fc774bacedebf2dd78849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing1_diff.png using Guid(89a3be6a2e4fc774bacedebf2dd78849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a365f347d2a05d1f174f5a43c8dfe1f') in 0.015004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/playground/textures/Sand1_ao.png
+  artifactKey: Guid(0d7c1f4272905e44fbe4ae5ad3d6abc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/Sand1_ao.png using Guid(0d7c1f4272905e44fbe4ae5ad3d6abc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d467dceb93fc0978da2e34f90f8c908') in 0.014776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/playground/textures/sandbox_spec.png
+  artifactKey: Guid(900adff9f1c13114abf8c8e138cad7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/sandbox_spec.png using Guid(900adff9f1c13114abf8c8e138cad7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c3a077b84316acf1045cb84e820504') in 0.013926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/playground/textures/swing_norm.png
+  artifactKey: Guid(563419d8a9291de42b421839ee40e346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing_norm.png using Guid(563419d8a9291de42b421839ee40e346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca244ef11861eba012f6527acd28783c') in 0.015731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/playground/textures/MuddySand_roughness.png
+  artifactKey: Guid(a0279e7a518747b49b9d03aa8ba2dc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/MuddySand_roughness.png using Guid(a0279e7a518747b49b9d03aa8ba2dc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d5bc578398beeafec4569c50c8e3ff') in 0.015317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/playground/textures/sandbox_diff.png
+  artifactKey: Guid(0d530c5a853938f449ad36268cff0f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/sandbox_diff.png using Guid(0d530c5a853938f449ad36268cff0f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084558f991f02855533c20896d39a347') in 0.017855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/playground/textures/swing2_met.png
+  artifactKey: Guid(5481bc7f8053b8f4288af4af3f6c833c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing2_met.png using Guid(5481bc7f8053b8f4288af4af3f6c833c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44661ebe07c2bb7be95cb0cf0fc9c65') in 0.014970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/playground/textures/zabor_rgh.png
+  artifactKey: Guid(3ffdedcb0b4b24e46babe147ddde0dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/zabor_rgh.png using Guid(3ffdedcb0b4b24e46babe147ddde0dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33df30b29b0e7247da3d499c29666941') in 0.017229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/playground/textures/swing1_norm.png
+  artifactKey: Guid(d9debabde4b5337408e9b7afce21a56d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing1_norm.png using Guid(d9debabde4b5337408e9b7afce21a56d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8883caaa0e71787447400d228d82b850') in 0.016125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/playground/textures/swing2_rgh.png
+  artifactKey: Guid(aa3043a059a9de74cac8b14739f40579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing2_rgh.png using Guid(aa3043a059a9de74cac8b14739f40579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '569f86daf49a71cd0d00be3673fc183d') in 0.015899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/playground/textures/sandbox_norm.png
+  artifactKey: Guid(cd2c9ca5f6b88614e8bbc698d11c96a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/sandbox_norm.png using Guid(cd2c9ca5f6b88614e8bbc698d11c96a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06de616dc84fe97e0faa8f646c7c630b') in 0.015262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/playground/textures/zabor_spec.png
+  artifactKey: Guid(01076d1c9f724ad4bb34fd8fa35ab64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/zabor_spec.png using Guid(01076d1c9f724ad4bb34fd8fa35ab64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90e0dbf6db9a672e3767471d2009f61') in 0.016810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/playground/textures/swing_met.png
+  artifactKey: Guid(64d5bdd5b9b53af43b530beb26b2947c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing_met.png using Guid(64d5bdd5b9b53af43b530beb26b2947c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea7d161cd9cc850ed7bafdbe24d40f0') in 0.016509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/playground/textures/swing_rgh.png
+  artifactKey: Guid(752c46ef895eb03419e856ecf13fbba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playground/textures/swing_rgh.png using Guid(752c46ef895eb03419e856ecf13fbba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed50a222bb9b4516684b09769776908') in 0.013780 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
